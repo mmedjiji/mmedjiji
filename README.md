@@ -1,7 +1,6 @@
 
 <header>
-<a href="https://github.com/mmdjiji"><h3 align="center"><img src="header.svg" /></h3></a>
-<h4 align="center">
+ <h4 align="center">
 <a href="https://mmdjiji.com">Blog</a>
 &emsp;•&emsp;
 <a href="https://t.me/mmdjiji">Telegram</a>
